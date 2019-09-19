@@ -1,5 +1,5 @@
 # Cloud-Computing
-Cloud Computing Architecture Swinburne Year 2 Semester 1
+Develop a Highly Available Photo Album Web Site
 
 
 It has the following additional objectives:
